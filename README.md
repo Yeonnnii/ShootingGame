@@ -193,6 +193,7 @@ AlienShootingGame
         armPivot.rotation = Quaternion.Euler(0, 0, rotZ);
     }
 
+![image](https://github.com/Yeonnnii/ShootingGame/assets/141755349/5cb52e57-5eff-4431-af8b-e69ae266bec3)
 
 
 - 기존 Unity에 UI.Text 추가와 다른 점
